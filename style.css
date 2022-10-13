@@ -96,26 +96,23 @@ a:hover {
     height: 10rem;
 }
 #about {
-    padding: 0 20px 10px 80px;
+    padding: 0 40px 10px 80px;
     margin-top: 32px;
     font-family: 'Lora';
 }
 #about h2 {
+    font-family: 'Times New Roman', Times, serif;
     font-size: 1.1rem;
     padding-bottom: 50px;
     font-weight:800;
     text-transform: uppercase;
+    
 }
-/* #about h2:after {
-    content: ' ';
-    display: block;
-    border: 1px solid var(--color-darksea-blue);
-    width: 10rem;
-} */
 #about p {
     font-size: 1.4rem; 
 }
 #about h3 {
+    font-family: 'Times New Roman', Times, serif;
     padding-top: 80px;
     font-size: 1.1rem;
     padding-bottom: 40px;
@@ -165,6 +162,7 @@ a:hover {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    height: 253px;
 }
 .card h2 {
     padding-bottom: 5px;
