@@ -260,5 +260,6 @@ footer p {
     color: var(--color-bright-crimson);
 }
 .heart {
+    font-family:'Courier New', Courier, monospace;
     color: red;
 }
