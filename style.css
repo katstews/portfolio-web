@@ -259,3 +259,6 @@ footer p {
 .emph {
     color: var(--color-bright-crimson);
 }
+.heart {
+    color: red;
+}
